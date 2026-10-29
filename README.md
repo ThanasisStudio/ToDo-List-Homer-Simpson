@@ -1,16 +1,15 @@
-# 🍩 Homer Simpson's To-Do List
+<img width="1121" height="839" alt="image" src="https://github.com/user-attachments/assets/eac742ba-4448-4bd9-a78a-bc2fc7afb967" /># 🍩 Homer Simpson's To-Do List
 
 **DEMO:** https://sites.google.com/view/simpsonsto-dolist/full-page-embed
 
-> 🌐 **Read in:** [English](#-english-version) | [Русский](#-русская-версия)
+<img width="1121" height="839" alt="image" src="https://github.com/user-attachments/assets/c0dba89c-8f55-401c-b6a7-e3823a25be01" />
+
 
 ---
 
 ## English Version
 
 An interactive, responsive, and bilingual To-Do List web application inspired by the iconic Homer Simpson notepad meme from *The Simpsons*.
-
-![Preview](<img width="1080" height="936" alt="image" src="https://github.com/user-attachments/assets/d93c7f25-7e61-43d0-8cf2-f4b333442839" />)
 
 ### ✨ Features
 - **🎨 Iconic Simpson Style:** Living room theme, interactive TV, yellow hands holding the notepad.
