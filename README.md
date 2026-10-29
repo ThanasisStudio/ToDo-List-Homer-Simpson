@@ -1,4 +1,4 @@
-<img width="1121" height="839" alt="image" src="https://github.com/user-attachments/assets/eac742ba-4448-4bd9-a78a-bc2fc7afb967" /># 🍩 Homer Simpson's To-Do List
+# 🍩 Homer Simpson's To-Do List
 
 **DEMO:** https://sites.google.com/view/simpsonsto-dolist/full-page-embed
 
