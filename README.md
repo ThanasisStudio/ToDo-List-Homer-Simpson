@@ -10,7 +10,7 @@
 
 An interactive, responsive, and bilingual To-Do List web application inspired by the iconic Homer Simpson notepad meme from *The Simpsons*.
 
-![Preview](<img width="1080" height="936" alt="image" src="https://github.com/user-attachments/assets/d93c7f25-7e61-43d0-8cf2-f4b333442839" />) *(Optional: replace with your project screenshot)*
+![Preview](<img width="1080" height="936" alt="image" src="https://github.com/user-attachments/assets/d93c7f25-7e61-43d0-8cf2-f4b333442839" />)
 
 ### ✨ Features
 - **🎨 Iconic Simpson Style:** Living room theme, interactive TV, yellow hands holding the notepad.
